@@ -1,3 +1,3 @@
-# quick-json.db
+# quick-db.json
 Basic DataBase
 
