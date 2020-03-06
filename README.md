@@ -22,6 +22,10 @@ db.has("users.id");
 db.get("users.id");
 // .then(x => console.log(x)); writing "{ id: 001 }"
 
+// Fetching object
+db.fetch("users.id");
+// console.log(db.fetch("users.id")); writing "001"
+
 // Deleting object
 db.delete("users.id");
 // .then(x => console.log(x.message)); writing "Object Deleted."
