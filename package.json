@@ -1,6 +1,6 @@
 {
   "name": "quick-db.json",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Quick JSON DataBase",
   "main": "index",
   "scripts": {
